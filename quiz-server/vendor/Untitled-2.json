@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "question": "Perro",
+    "img": "https://cdn.britannica.com/02/198002-050-452BDBD2/West-Highland-White-Terrier.jpg",
+    "answer": "dog",
+    "option1": "rabbit",
+    "option2": "cat"
+  },
+  {
+    "id": 2,
+    "question": "Casa",
+    "img": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-23.jpg",
+    "answer": "house",
+    "option1": "hotel",
+    "option2": "camping"
+  },
+  {
+    "id": 3,
+    "question": "Ventana",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Window_of_the_house_with_number_17_on_strada_M%C3%A2ntuleasa%2C_from_Bucharest_%28Romania%29.jpg",
+    "answer": "window",
+    "option1": "door",
+    "option2": "balcony"
+  }
+]
