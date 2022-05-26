@@ -1,4 +1,4 @@
-"id","question","img","answer","option1","option2"
-"1","Perro","https://cdn.britannica.com/02/198002-050-452BDBD2/West-Highland-White-Terrier.jpg","dog","rabbit","cat"
-"2","Casa","https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-23.jpg","house","hotel","camping"
-"3","Ventana","https://upload.wikimedia.org/wikipedia/commons/e/e2/Window_of_the_house_with_number_17_on_strada_M%C3%A2ntuleasa%2C_from_Bucharest_%28Romania%29.jpg","window","door","balcony"
+"id","question","img","answer","option1","option2","option3"
+"1","Perro","https://cdn.britannica.com/02/198002-050-452BDBD2/West-Highland-White-Terrier.jpg","dog","rabbit","cat","rat"
+"2","Casa","https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-23.jpg","house","hotel","camping","tend"
+"3","Ventana","https://upload.wikimedia.org/wikipedia/commons/e/e2/Window_of_the_house_with_number_17_on_strada_M%C3%A2ntuleasa%2C_from_Bucharest_%28Romania%29.jpg","window","door","balcony","room"

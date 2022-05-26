@@ -9,15 +9,19 @@ class QuestionsController < ApplicationController
     csv_path = File.expand_path('../../../vendor/words.csv', __FILE__)
     
     CSV.foreach(csv_path, headers: true, col_sep: ',' ) do |row|
+      available_answers = [
+        row['answer'],
+        row['option1'],
+        row['option2'],
+        row['option3']
+      ]
+
       item_hash = {
         'id': row['id'],
         'question': row['question'],
         'img': row['img'],
         'answer': row['answer'],
-        'options': [
-          row['option1'],
-          row['option2']
-        ]
+        'options': available_answers.shuffle()
       }
 
       questions_list.push(item_hash)

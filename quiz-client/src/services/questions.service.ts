@@ -1,5 +1,5 @@
 import axios from "axios";
-import { Question } from "../interfaces/question";
+import { Question } from "../models/question";
 
 const QuestionsService = (() => {
   const entryPoint = `/questions`;
