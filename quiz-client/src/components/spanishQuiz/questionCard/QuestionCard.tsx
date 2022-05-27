@@ -32,10 +32,10 @@ function QuestionCard({ question, isActive }: QuestionCardProps) {
       } `}
     >
       <div className="card-body">
-        <h4>
+        <p className="text-muted">
           Question {sharedContext.questionActiveIndex + 1}/
           {sharedContext.totalQuestions}
-        </h4>
+        </p>
         <img
           src={question.img}
           className="rounded mx-auto d-block"

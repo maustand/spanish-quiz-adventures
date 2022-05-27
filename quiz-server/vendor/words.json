@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "question": "Perro",
+    "img": "https://cdn.britannica.com/02/198002-050-452BDBD2/West-Highland-White-Terrier.jpg",
+    "answer": "dog",
+    "option1": "rabbit",
+    "option2": "cat",
+    "option3": "rat"
+  },
+  {
+    "id": 2,
+    "question": "Casa",
+    "img": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-23.jpg",
+    "answer": "house",
+    "option1": "hotel",
+    "option2": "camping",
+    "option3": "tend"
+  },
+  {
+    "id": 3,
+    "question": "Ventana",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Window_of_the_house_with_number_17_on_strada_M%C3%A2ntuleasa%2C_from_Bucharest_%28Romania%29.jpg",
+    "answer": "window",
+    "option1": "door",
+    "option2": "balcony",
+    "option3": "room"
+  },
+
+  {
+    "id": 4,
+    "question": "Vaso",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/Trinkglas%2C_Tumbler-Form.jpg",
+    "answer": "glass",
+    "option1": "cup",
+    "option2": "bottle",
+    "option3": "flask"
+  },
+  {
+    "id": 5,
+    "question": "Encendedor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/White_lighter_with_flame.JPG/800px-White_lighter_with_flame.JPG",
+    "answer": "lighter",
+    "option1": "conflagration",
+    "option2": "bonfire",
+    "option3": "electricity"
+  },
+  {
+    "id": 6,
+    "question": "Electricidad",
+    "img": "https://www.renovablesverdes.com/wp-content/uploads/2019/01/Rayos-y-electricidad.jpg",
+    "answer": "electricity",
+    "option1": "energy",
+    "option2": "battery",
+    "option3": "sunpower"
+  },
+  {
+    "id": 7,
+    "question": "Cocina",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Frankfurter-kueche-vienna.JPG/800px-Frankfurter-kueche-vienna.JPG",
+    "answer": "kitchen",
+    "option1": "salon",
+    "option2": "sofa",
+    "option3": "bench"
+  },
+  {
+    "id": 8,
+    "question": "Almohada",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pillow_MET_DP275204.jpg/1280px-Pillow_MET_DP275204.jpg",
+    "answer": "pillow",
+    "option1": "headboard",
+    "option2": "bedding",
+    "option3": "bedspread"
+  },
+  {
+    "id": 9,
+    "question": "Billetera",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WalletMpegMan.jpg/200px-WalletMpegMan.jpg",
+    "answer": "wallet",
+    "option1": "bag",
+    "option2": "pocket",
+    "option3": "backpack"
+  }
+  ,
+  {
+    "id": 10,
+    "question": "Periodico",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Newspapers.jpg",
+    "answer": "newspaper",
+    "option1": "paper",
+    "option2": "sheet",
+    "option3": "pencil"
+  }
+]
