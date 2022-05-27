@@ -2,3 +2,7 @@ body {
   background-color: #f6f7fb;
   height: 100%;
 }
+
+main.container {
+  height: calc(100vh - 4.56rem);
+}

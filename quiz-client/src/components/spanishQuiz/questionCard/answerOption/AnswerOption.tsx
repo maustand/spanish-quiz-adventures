@@ -29,7 +29,7 @@ function AnswerOption({
   return (
     <>
       <div
-        className={`d-flex col-5 ps-2 py-2 m-2 border ${styles.answerOptionContainer} ${isWrong} ${isCorrectAnswer} `}
+        className={`d-flex col-5 ps-2 py-2 m-2 border ${styles.answerOptionContainer} ${isWrong} ${isCorrectAnswer}`}
         onClick={() => onSelectAnswer(answer)}
       >
         <p

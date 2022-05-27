@@ -29,7 +29,7 @@ function SpanishQuiz() {
       ) : sharedContext.isGameOver ? (
         <QuizzResult />
       ) : (
-        <section className="flash-cards-container">
+        <>
           {questions.map((item: Question, index) => (
             <QuestionCard
               key={`question-card${index}`}
@@ -37,7 +37,7 @@ function SpanishQuiz() {
               question={item}
             />
           ))}
-        </section>
+        </>
       )}
     </>
   );
